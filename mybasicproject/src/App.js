@@ -16,10 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
          my name is mahesh
-         <h1>gdhgshcgshcv</h1>
-         <h2>add is created</h2>
-        <h3>h3 add is created</h3>
-        <h3>h3 add kbjksdgfjksdgf created</h3>
+         <h1>sandeep yeripuka</h1>
         </a>
       </header>
     </div>
